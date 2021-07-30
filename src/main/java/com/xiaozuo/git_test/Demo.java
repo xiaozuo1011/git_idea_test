@@ -5,5 +5,6 @@ public class Demo {
         System.out.println("Hello Idea_Git");
         System.out.println("Hello Idea_Git2");
         System.out.println("Hello Idea_Git3");
+        System.out.println("xiaozuo test");
     }
 }
