@@ -7,5 +7,6 @@ public class Demo {
         System.out.println("Hello Idea_Git3");
         System.out.println("master test");
         System.out.println("xiaozuo test");
+        System.out.println("pull test");
     }
 }
